@@ -2,8 +2,8 @@
 // Configuración de la base de datos
 define('DB_HOST', 'localhost');
 define('DB_NAME', 'biblioteca_db');
-define('DB_USER', 'root');
-define('DB_PASS', 'inacap2025');
+define('DB_USER', 'biblioteca_user');
+define('DB_PASS', 'BibliotecaPass2024!');
 
 // Función para conectar a la base de datos
 function getConnection() {
